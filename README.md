@@ -1,18 +1,20 @@
-### Hi, I'm Alex Kagai
+## Hi, I'm Alex Kagai
 
+### ✨ Software Developer Based in 🌍 Nairobi, Kenya.
+- 💼 Working as a freelance developer.
+- 🛠 Mostly code in 
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=blue&white)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=yellow&green)
+- I have my hands in ![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=yellow&green)
 
+- 📫 Find me on: [twitter](https://twitter.com/malexiagak) · [linkedin](https://www.linkedin.com/in/malex-kagai/)
 
-<!--
-**Xerrex/Xerrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+### Highlights
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Xerrex GitHub stats](https://github-readme-stats.vercel.app/api/?username=Xerrex)
+<br/>
+![Xerrex GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Xerrex)
+
