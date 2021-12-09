@@ -13,7 +13,6 @@
 - 👯 I’m looking to collaborate on all projects.
 
 - 🤝 I’m looking for help with [long term work]()
-Wangui11336869#
 
 
 <h3 align="left">📫 Connect with me:</h3>
