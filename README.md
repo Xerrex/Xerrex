@@ -2,17 +2,15 @@
 <h3 align="center">A Software Developer ✨ based in 🌍 Nairobi, Kenya.</h3>
 <p align="center">I write code and help other developers gets started or unblock them.</p>
 
-- 🔭 I’m currently working as [Freelance Developer](https://github.com/Xerrex)
+- 🧪 I’m currently working on my portfolio projects.
 
-- 👨‍💻 All of my projects are available at [Github](github.com/Xerrex)
+- 📁 Find works I am proud of and more about me [here](https://xerrex.github.io/).
 
-- 💬 Ask me about **All matters Development**
+- 👨‍💻 All of my projects codes are available at [Github](github.com/Xerrex).
 
-- 📄 Know about my experiences [here](resume)
+- 🙋 Do not hesitate to ask 💬 for help with coding challenges.
 
-- 👯 I’m looking to collaborate on all projects.
-
-- 🤝 I’m looking for help with [long term work]()
+- 👯 I’m looking 🔭 to collaborate 🤝on all projects both long-term and short-term.
 
 
 <h3 align="left">📫 Connect with me:</h3>
