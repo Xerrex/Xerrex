@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alex Kagai 🤓</h1>
-<h3 align="center">A Software Developer ✨ based in 🌍 Nairobi, Kenya.</h3>
-<p align="center">I write code and help other developers gets started or unblock them.</p>
+<h3 align="center">A Software Developer ✨ based in 🌍 Nairobi, Kenya 🇰🇪.</h3>
+<p align="center">I write code and help other developers get started and keep going.</p>
 
-- 🧪 I’m currently working on my portfolio projects.
+- 🧪 I’m currently working as Freelancing Software developer.
 
 - 📁 Find works I am proud of and more about me [here](https://xerrex.github.io/).
 
@@ -35,5 +35,5 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-</p>
-<a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> 
+<a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a>
+</p> 
