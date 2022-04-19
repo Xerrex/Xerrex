@@ -12,6 +12,8 @@
 
 - 👯 I’m looking 🔭 to collaborate 🤝on all projects both long-term and short-term.
 
+- View the weather [here](https://cityweather-xerrex.netlify.app/)
+
 
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
